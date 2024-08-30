@@ -17,7 +17,7 @@ public:
             numMap[nums[i]] = i;
         }
         
-        return {}; // This should never happen given the problem constraints
+        return {};
     }
 };
 
